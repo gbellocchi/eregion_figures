@@ -1,4 +1,4 @@
-# <span> **<span style="font-variant:small-caps;">⚒️ Eregion Figures ⚒️</span>**</span>
+# <span> **<span style="font-variant:small-caps;">⚒️ Eregion Figures</span>**</span>
 A library for forging figures of unparalleled majesty under the guidance of Lord Celebrimbor and the master elven-smiths of the Gwaith-i-Mírdain. From raw scripts to artifacts of light, we shape the unseen.
 
 ## Contact
