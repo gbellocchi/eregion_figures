@@ -1,3 +1,9 @@
+// Copyright 2026 University of Modena and Reggio Emilia.
+// Licensed under the Apache License, Version 2.0, see LICENSE for details.
+// SPDX-License-Identifier: Apache-2.0
+//
+// Author: Gianluca Bellocchi <gianluca.bellocchi@unimore.it>
+
 #import "@preview/fletcher:0.5.8" as fletcher: diagram, node, edge
 #import "const.typ": *
 
